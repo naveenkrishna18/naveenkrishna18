@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naveen Krishna</h1>
-<h3 align="center">Budding Full Stack Developer</h3>
+<h3 align="center">Budding Data Engineer</h3>
 
 - 🔭 I’m currently working at **Cognizant**
 
-- 🌱 I’m currently learning **JavaScript, Node JS, React JS**
+- 🌱 I’m currently learning **Terraform, AWS**
 
 - 📫 How to reach me **naveenganapathyprasad@gmail.com**
 
